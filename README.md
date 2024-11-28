@@ -1,1 +1,1 @@
-# This is a Shoping cart website 
+# This is a Shoping cart React-Project
